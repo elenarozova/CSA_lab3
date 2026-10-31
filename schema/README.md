@@ -1,2 +1,2 @@
 Схема f32a-harv[-dcache]
-![схема](schemaf32a.jpg)
+![схема](схемаf32a.jpg)
